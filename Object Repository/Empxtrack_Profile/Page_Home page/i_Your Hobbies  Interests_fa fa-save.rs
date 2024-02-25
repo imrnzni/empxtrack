@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Your Hobbies  Interests_fa fa-save</name>
+   <tag></tag>
+   <elementGuidId>183fd3c6-5c04-4ddd-894f-3afdb1bf5048</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-save</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='edit']/i)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>44d35d62-46e1-4968-bcbf-3bbbef74c608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-save</value>
+      <webElementGuid>823ecc78-d53c-41f7-9694-4785ea76bb3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-dialog-empxtrack&quot;)/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;li_tr_profile_bb form-group&quot;]/div[@class=&quot;col-md-3 col-xs-3&quot;]/a[@id=&quot;edit&quot;]/i[@class=&quot;fa fa-save&quot;]</value>
+      <webElementGuid>d3c6313b-2f86-4f66-87c4-0c057a5a9a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_Profile/Page_Home page/iframe_Self services_homePageFrame (2)</value>
+      <webElementGuid>f2b1450c-1dab-4fa4-8366-30b8521e78df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='edit']/i)[3]</value>
+      <webElementGuid>ca393e2d-1d9a-42fb-8cef-e793d82d935a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div/div[3]/a/i</value>
+      <webElementGuid>7d38eae9-0980-4d95-9ea1-7c69b6e29083</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

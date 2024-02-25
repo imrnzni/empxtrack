@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User unsuccessfully add a new feed</description>
+   <name>Empxtrack Feed 9</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fce20758-20c7-4554-9230-46feba2c7a32</testCaseGuid>
+</TestCaseEntity>

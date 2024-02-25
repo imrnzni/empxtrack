@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1</name>
+   <tag></tag>
+   <elementGuidId>7ff5a2e5-2024-4452-aa2a-22ac6437ada3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;CONFETTI BALL&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='help-header_1000012']/div/div[11]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b1439c3b-e7ce-4180-a51c-a45e6c6c1f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>🎊</value>
+      <webElementGuid>f60b9b38-cdcc-468a-a846-68fffcf253b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;help-header_1000012&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-2&quot;]/a[1]/span[1]</value>
+      <webElementGuid>5e47cb27-3ef2-4055-8da4-786ed4829850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_Feed/Page_Home page/iframe_Self services_homePageFrame (3)</value>
+      <webElementGuid>a7fd6c55-73e4-44cc-adeb-8e06be2be1e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='help-header_1000012']/div/div[11]/a/span</value>
+      <webElementGuid>7a827ecd-279a-4ca7-afb5-d1588b48714d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🎉'])[1]/following::span[1]</value>
+      <webElementGuid>923d4b99-0e32-4862-8957-32ccef44f6ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🌺'])[1]/following::span[2]</value>
+      <webElementGuid>055ff3c4-95ab-4646-b8ce-6cb2f28eb21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🎁'])[1]/preceding::span[1]</value>
+      <webElementGuid>81099b11-3523-4b02-94d0-5135f55708b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='😀'])[1]/preceding::span[2]</value>
+      <webElementGuid>dbcc8143-712f-4454-806a-6771922cf5cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='🎊']/parent::*</value>
+      <webElementGuid>787b9a7c-6954-437c-a29f-003b6bf3aea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/a/span</value>
+      <webElementGuid>3f0ba717-f0d9-4d35-917d-01cb6b01a0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '🎊' or . = '🎊')]</value>
+      <webElementGuid>d643e680-87ca-4359-98fe-dfa10b0b2ca1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

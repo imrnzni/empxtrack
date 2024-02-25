@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User successfully add a new event</description>
+   <name>Empxtrack Event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b19ee24-26b8-44f5-8688-b92baaadf21f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac87847e-37a5-4fdf-b12a-7ff6657c450f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4056571-c175-4e4e-95e3-6e85f372f79a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d35d1b7c-451d-4a03-a004-043cbc27da9e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17011b80-4f8f-4686-af5b-bfa84822ffbb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://hrportal.empxtrack.com/empxtrack/logon.do?activity=display&amp;__nored_=1&amp;location=testbitssdnbhd&amp;selMenuItemChoice=clear'</defaultValue>
+      <description></description>
+      <id>ac87847e-37a5-4fdf-b12a-7ff6657c450f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'empxt.latihan04@yopmail.com'</defaultValue>
+      <description></description>
+      <id>a4056571-c175-4e4e-95e3-6e85f372f79a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'cIjZX7FQSD5JPNYeXpMicQ=='</defaultValue>
+      <description></description>
+      <id>d35d1b7c-451d-4a03-a004-043cbc27da9e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'(GMT-08:00) Pacific Time (US &amp; Canada)'</defaultValue>
+      <description></description>
+      <id>17011b80-4f8f-4686-af5b-bfa84822ffbb</id>
+      <masked>false</masked>
+      <name>timeZone</name>
+   </variable>
+</TestCaseEntity>

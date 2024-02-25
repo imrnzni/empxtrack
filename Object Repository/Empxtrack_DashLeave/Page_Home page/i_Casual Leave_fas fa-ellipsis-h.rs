@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Casual Leave_fas fa-ellipsis-h</name>
+   <tag></tag>
+   <elementGuidId>7306f8ac-3528-4b12-8bcf-3b29e9df158c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;_navBarId_renderTableHeaderArray_1706511677498_0&quot;)/span[1]/i[@class=&quot;fas fa-ellipsis-h&quot;][count(. | //i[@class = 'fas fa-ellipsis-h' and @ref_element = 'Object Repository/Empxtrack_DashLeave/Page_Home page/iframe_Self services_homePageFrame']) = count(//i[@class = 'fas fa-ellipsis-h' and @ref_element = 'Object Repository/Empxtrack_DashLeave/Page_Home page/iframe_Self services_homePageFrame'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-ellipsis-h</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[3]/div/a/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e2ae0f0c-1ae9-41e6-a219-2caa7a35fa90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-ellipsis-h</value>
+      <webElementGuid>fc4572d8-c372-4bed-8bb0-d11cfb48a8f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_navBarId_renderTableHeaderArray_1706511677498_0&quot;)/span[1]/i[@class=&quot;fas fa-ellipsis-h&quot;]</value>
+      <webElementGuid>b4f8b8cf-b5b8-4323-bc14-3244a5c57700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_DashLeave/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>cc8aa806-5076-461d-aa61-b38161f97936</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='_navBarId_renderTableHeaderArray_1706511677498_0']/span/i</value>
+      <webElementGuid>5126a1ae-f10a-481b-9d47-fd2bb27ed977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/a/span/i</value>
+      <webElementGuid>ac6eb753-beae-40bf-915f-7c77a42a07bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

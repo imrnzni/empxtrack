@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Help_master_overlay_tempt</name>
+   <tag></tag>
+   <elementGuidId>b70903d5-80ee-43b7-bf30-af74175e6666</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.master_overlay_tempt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myProfileView1']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4120de78-20c9-41e1-b079-c5c70ee5e0c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>master_overlay_tempt</value>
+      <webElementGuid>67d41d8a-9ad8-4570-b104-04bec0e60bc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myProfileView1&quot;)/div[@class=&quot;col-md-12 master_profile-tempt&quot;]/div[@class=&quot;master_overlay_tempt&quot;]</value>
+      <webElementGuid>819f2fd6-80c8-43b5-8300-5b0821297bf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_Profile/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>27af0109-24d3-4e51-b974-97f89b604e72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myProfileView1']/div/div</value>
+      <webElementGuid>74e72e1a-f38e-44f4-86b9-0bdb95f11d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>83e85925-9d09-4429-86a1-9d5036562321</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

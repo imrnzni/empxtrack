@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User successfully applied a sick leave</description>
+   <name>Empxtrack Dashboard Leave 6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5ab465b-c831-4adc-97d5-8f7b0529ba4c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Holiday Calendar</name>
+   <tag></tag>
+   <elementGuidId>41686169-08f4-4cd1-938a-95e8fd5934cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;btn_Holiday20Calendar&quot;)[count(. | //a[@class = 'btn_secondary' and @id = 'btn_Holiday20Calendar' and @href = 'javascript:void(0);' and @onclick = concat(&quot;javascript:encryptURLForPanel(&quot; , &quot;'&quot; , &quot;mod=MyLeaveDetails&amp;secondaryVar=extendedDwrMode^showHolidayCalendar&quot; , &quot;'&quot; , &quot;);return false;&quot;) and (text() = 'Holiday Calendar' or . = 'Holiday Calendar') and @ref_element = 'Object Repository/Empxtrack_DashAttendance/Page_Home page/iframe__mycontent-right-frame']) = count(//a[@class = 'btn_secondary' and @id = 'btn_Holiday20Calendar' and @href = 'javascript:void(0);' and @onclick = concat(&quot;javascript:encryptURLForPanel(&quot; , &quot;'&quot; , &quot;mod=MyLeaveDetails&amp;secondaryVar=extendedDwrMode^showHolidayCalendar&quot; , &quot;'&quot; , &quot;);return false;&quot;) and (text() = 'Holiday Calendar' or . = 'Holiday Calendar') and @ref_element = 'Object Repository/Empxtrack_DashAttendance/Page_Home page/iframe__mycontent-right-frame'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_Holiday20Calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>303ac6bc-d0c6-4fef-87f5-2c7a414c6b2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_secondary</value>
+      <webElementGuid>4f9b7012-d1fa-4a2f-af0d-3f554b6044b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_Holiday20Calendar</value>
+      <webElementGuid>6be3fdcb-9085-436c-8f48-263bc92d38fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>27470078-a2a1-4b52-9b9d-16a5fd882294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:encryptURLForPanel('mod=MyLeaveDetails&amp;secondaryVar=extendedDwrMode^showHolidayCalendar');return false;</value>
+      <webElementGuid>0e106a5d-12a2-407d-be6a-232eb79ed65b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Holiday Calendar</value>
+      <webElementGuid>daef481b-5f6b-4ba6-a54e-79caa34edd35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_Holiday20Calendar&quot;)</value>
+      <webElementGuid>a43ab178-fcbf-4adc-8c7a-3c709cace10f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_DashAttendance/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>3be96015-1842-4af9-9738-6b4277acaefb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btn_Holiday20Calendar']</value>
+      <webElementGuid>0b236453-9f41-44a4-950a-208f7f6fff2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-section-panel']/div/div/div[3]/div/div/a[2]</value>
+      <webElementGuid>4355d215-f672-4d37-8ca6-f261a63a0d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Holiday Calendar')]</value>
+      <webElementGuid>9eb6f2b0-1c94-4afd-8772-1fab5426a3b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply for leave'])[1]/following::a[1]</value>
+      <webElementGuid>a93e354a-477d-4bcd-a7bf-521e053cd4e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View in full page'])[1]/preceding::a[1]</value>
+      <webElementGuid>58f1fe92-10c6-46df-8b25-b8e6e8dfee30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/preceding::a[2]</value>
+      <webElementGuid>ef35e819-0307-486f-b27c-c78f83e12e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Holiday Calendar']/parent::*</value>
+      <webElementGuid>3e96e1cb-d331-4884-b597-f432b8845608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[4]</value>
+      <webElementGuid>1afa29aa-7a41-4316-b4a8-f0bb0f064984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a[2]</value>
+      <webElementGuid>019f5ca0-8ae5-4082-bc10-d6151edcc0e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btn_Holiday20Calendar' and @href = 'javascript:void(0);' and (text() = 'Holiday Calendar' or . = 'Holiday Calendar')]</value>
+      <webElementGuid>3672fa9f-6b1a-4985-9906-b6e877ea5599</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

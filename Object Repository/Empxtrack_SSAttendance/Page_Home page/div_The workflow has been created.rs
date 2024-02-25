@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The workflow has been created</name>
+   <tag></tag>
+   <elementGuidId>9f794a07-61d1-4a8e-bb26-2cec0ff65b3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#snackbar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='snackbar']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b04c1ec3-60bc-4477-b40b-1b439e3fb493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>snackbar</value>
+      <webElementGuid>29656b80-77e8-4824-b300-e33adb362412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>showSnackbar</value>
+      <webElementGuid>e2d28897-d4db-410a-aad6-324353a60288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The workflow has been created.</value>
+      <webElementGuid>8b53d773-bb09-44e4-8f7c-d60352a4ab1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;snackbar&quot;)</value>
+      <webElementGuid>32edb674-865f-46d2-9397-a26e52160f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_SSAttendance/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>6807ad9b-eaf2-4097-a439-0e1982ba08b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='snackbar']</value>
+      <webElementGuid>a9d622b7-9c85-4b93-a533-5730ef60161e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[0]'])[1]/following::div[14]</value>
+      <webElementGuid>9f9c8db8-4df6-4f00-8d81-fa758774b60e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/preceding::div[2]</value>
+      <webElementGuid>9b55d35a-c4bb-4c5b-86e2-7f067c4e3814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[3]/div[5]</value>
+      <webElementGuid>d085966e-6d6e-4015-9f0c-03ad1d66757c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'snackbar' and (text() = 'The workflow has been created.' or . = 'The workflow has been created.')]</value>
+      <webElementGuid>39f6c4ab-dd6a-4533-b516-afdc15a358db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

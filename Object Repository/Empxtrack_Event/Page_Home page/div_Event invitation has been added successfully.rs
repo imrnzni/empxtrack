@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Event invitation has been added successfully</name>
+   <tag></tag>
+   <elementGuidId>00c626cc-b88b-4686-b80c-334d7077578d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='c81e5b18-f0f3-49e9-a00f-40673b6bfb62']/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;c81e5b18-f0f3-49e9-a00f-40673b6bfb62&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;bootstrap-dialog-body&quot;]/div[@class=&quot;bootstrap-dialog-message&quot;][count(. | //div[@class = 'bootstrap-dialog-message' and (text() = 'Event invitation has been added successfully.' or . = 'Event invitation has been added successfully.') and @ref_element = 'Object Repository/Empxtrack_Event/Page_Home page/iframe_Self services_homePageFrame']) = count(//div[@class = 'bootstrap-dialog-message' and (text() = 'Event invitation has been added successfully.' or . = 'Event invitation has been added successfully.') and @ref_element = 'Object Repository/Empxtrack_Event/Page_Home page/iframe_Self services_homePageFrame'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bootstrap-dialog-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>39a7c5c4-8b80-435b-a59d-e4d04873255d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bootstrap-dialog-message</value>
+      <webElementGuid>125d4fa2-3abc-4165-99fb-a7571ac8b04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Event invitation has been added successfully.</value>
+      <webElementGuid>77b49cd2-969a-4f39-b9a3-2ad884c75025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c81e5b18-f0f3-49e9-a00f-40673b6bfb62&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;bootstrap-dialog-body&quot;]/div[@class=&quot;bootstrap-dialog-message&quot;]</value>
+      <webElementGuid>1a6e8fcc-8339-48b4-9737-ce6af933be48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_Event/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>3e865995-b648-4cc1-977b-2c84b74c1068</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='c81e5b18-f0f3-49e9-a00f-40673b6bfb62']/div/div/div[2]/div/div</value>
+      <webElementGuid>339fde0f-b974-4048-a88a-e7de02fd715d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation!'])[1]/following::div[3]</value>
+      <webElementGuid>3933e26b-47fe-42e2-83c3-43413b3c7ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[4]/following::div[4]</value>
+      <webElementGuid>7ca9fdf1-596a-4c3d-b13a-b75e5dd666a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/preceding::div[1]</value>
+      <webElementGuid>13e9cc76-ee48-483f-be76-2cd740994e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Event invitation has been added successfully.']/parent::*</value>
+      <webElementGuid>4064ae03-280f-4ca7-a452-fed5130fe66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div[2]/div/div</value>
+      <webElementGuid>6aaf129b-6a4b-4b4c-987a-1137bdfb76a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Event invitation has been added successfully.' or . = 'Event invitation has been added successfully.')]</value>
+      <webElementGuid>1ca3ed98-8a54-4187-b2d4-4c75aee52d8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

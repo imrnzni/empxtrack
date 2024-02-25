@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add break</name>
+   <tag></tag>
+   <elementGuidId>fe7bc6dd-cd49-45b9-b839-b14584399389</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.attendance-widget-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;markTodayAttendanceOnHomepage('30/01/2024','1002498','B');return false;&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and @onclick = concat(&quot;markTodayAttendanceOnHomepage(&quot; , &quot;'&quot; , &quot;30/01/2024&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;1002498&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;B&quot; , &quot;'&quot; , &quot;);return false;&quot;) and (text() = ' Add break   ' or . = ' Add break   ') and @ref_element = 'Object Repository/Empxtrack_DashAttendance/Page_Home page/iframe_Self services_homePageFrame (2) (1)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a77e9c86-231b-4c31-806f-e2e17c649386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>4fd43be8-0742-46d9-9001-60888986f266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>markTodayAttendanceOnHomepage('30/01/2024','1002498','B');return false;</value>
+      <webElementGuid>2ccfa04a-af42-40d8-91e5-67dca15043a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attendance-widget-btn</value>
+      <webElementGuid>9942ad85-e1d2-43bf-8ac6-8d8a50ebdcc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add break   </value>
+      <webElementGuid>5e7a0e88-e910-480b-b9ac-58cfdd55654a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attendance_content&quot;)/a[@class=&quot;attendance-widget-btn&quot;]</value>
+      <webElementGuid>d2219f63-6209-489a-8489-925a90671860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_DashAttendance/Page_Home page/iframe_Self services_homePageFrame (2) (1)</value>
+      <webElementGuid>ccd38282-1e68-4754-ba9f-705b075eebff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;markTodayAttendanceOnHomepage('30/01/2024','1002498','B');return false;&quot;]</value>
+      <webElementGuid>79a3a8af-6f3d-4acf-9475-988e98e9e091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='attendance_content']/a</value>
+      <webElementGuid>a0194dfd-7a97-4629-b2ed-3d789aa741c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total hours'])[1]/following::a[1]</value>
+      <webElementGuid>cb0d647a-5dde-446c-bfdb-50843230704a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[1]/following::a[1]</value>
+      <webElementGuid>1be0c711-ec05-4f5c-8c65-3c0238ba1cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[11]</value>
+      <webElementGuid>be652f9d-c5b1-4b99-9d2b-4d7d82e4bf65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/a</value>
+      <webElementGuid>b4b51563-bed5-4406-90d9-b76a53625fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = ' Add break   ' or . = ' Add break   ')]</value>
+      <webElementGuid>a6ab281f-94ef-424e-aa45-f404e714d57c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

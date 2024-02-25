@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please specify the subject</name>
+   <tag></tag>
+   <elementGuidId>41c7b39e-096d-4a5c-9b01-aac9cb09ce3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1fbeaeb6-5e56-4f1e-a6a2-d94e7647bf89']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;1fbeaeb6-5e56-4f1e-a6a2-d94e7647bf89&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;][count(. | //div[(text() = 'Please specify the subject' or . = 'Please specify the subject') and @ref_element = 'Object Repository/Empxtrack_Event/Page_Home page/iframe_Self services_homePageFrame (2)']) = count(//div[(text() = 'Please specify the subject' or . = 'Please specify the subject') and @ref_element = 'Object Repository/Empxtrack_Event/Page_Home page/iframe_Self services_homePageFrame (2)'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#1fbeaeb6-5e56-4f1e-a6a2-d94e7647bf89 > div.modal-dialog > div.modal-content > div.modal-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be23676c-8a07-4b43-8c5f-cf58aac04151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body</value>
+      <webElementGuid>861c34d8-143b-4f46-9bad-c98bd56f0a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please specify the subject</value>
+      <webElementGuid>9f74bfbc-aff5-489b-883f-ac1da3204a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1fbeaeb6-5e56-4f1e-a6a2-d94e7647bf89&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]</value>
+      <webElementGuid>6d516b31-133e-4a18-bd00-7ff1f603d107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_Event/Page_Home page/iframe_Self services_homePageFrame (2)</value>
+      <webElementGuid>78ec610b-9414-48e7-8df5-a50d09382fc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1fbeaeb6-5e56-4f1e-a6a2-d94e7647bf89']/div/div/div[2]</value>
+      <webElementGuid>e8bb8fd4-ea23-4b26-942a-03a67c3452f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::div[1]</value>
+      <webElementGuid>80d44c38-d2ad-4363-9fcc-4f5e362cf2a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[4]/following::div[2]</value>
+      <webElementGuid>2e2c05fe-1658-44ef-89d3-6e79f51038fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[3]</value>
+      <webElementGuid>27c91281-9b63-44ff-8b60-15f0248576ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div[2]</value>
+      <webElementGuid>d5f8f876-f307-4c90-82a8-e2041cdc49c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please specify the subject' or . = 'Please specify the subject')]</value>
+      <webElementGuid>11f1777e-8beb-487d-9fc6-59497f6731da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User successfully navigate to corresponding feature upon clicking one of search results</description>
+   <name>Empxtrack Search 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>092f1fba-70be-428f-bfbd-557ad7e5ff38</testCaseGuid>
+</TestCaseEntity>

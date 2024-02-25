@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Leave transactionsHelp</name>
+   <tag></tag>
+   <elementGuidId>83e80fae-8138-4016-b98f-09307d539b8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='show_hide_page_title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#show_hide_page_title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>18d01c7b-5a44-4834-b6ab-d5ec18a7bce4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 headerbar</value>
+      <webElementGuid>b8f13bcc-8329-45a4-8e26-1674d2eb58bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>show_hide_page_title</value>
+      <webElementGuid>14c58ac1-d1c0-4375-8211-fab11f40465c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leave transactions  Help×</value>
+      <webElementGuid>bb38dc22-fae1-4562-9e5e-e4a9f9aa95f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show_hide_page_title&quot;)</value>
+      <webElementGuid>32272cc2-8db5-4a72-ab16-64827813b8ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='show_hide_page_title']</value>
+      <webElementGuid>47d96070-de2c-469a-9322-e5ff4c977d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mycontent-right']/div</value>
+      <webElementGuid>7d3ff623-8f63-478f-9882-b23938731d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self services'])[1]/following::div[8]</value>
+      <webElementGuid>dcf836bc-34c9-42b4-baac-e075598ad78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboards'])[1]/following::div[11]</value>
+      <webElementGuid>9cacba81-b4e6-417f-9b09-3060140999c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div</value>
+      <webElementGuid>726b79aa-9455-4127-b6ff-cef25ccaa737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'show_hide_page_title' and (text() = 'Leave transactions  Help×' or . = 'Leave transactions  Help×')]</value>
+      <webElementGuid>4db54ab0-2f36-42cb-b5e8-0f5b55c21db7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

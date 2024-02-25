@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Leave policyHelp</name>
+   <tag></tag>
+   <elementGuidId>c3399404-7f86-437e-9dac-8517a2d78ab0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='show_hide_page_title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#show_hide_page_title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e8d57308-84b0-4b1f-b12e-b7ba5169f447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 headerbar</value>
+      <webElementGuid>247365d8-0930-4212-b53e-daf0f1c7a8a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>show_hide_page_title</value>
+      <webElementGuid>3ca48304-d0f3-43ff-baae-f32d7535c11e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leave policy  Help×</value>
+      <webElementGuid>8af4e6f1-1ed6-4af7-8894-f05c7cf395aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show_hide_page_title&quot;)</value>
+      <webElementGuid>621eb8ae-615a-4256-be63-62111a9dbe58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='show_hide_page_title']</value>
+      <webElementGuid>ca94e253-b4bf-491b-b4e4-bdc198d19335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mycontent-right']/div</value>
+      <webElementGuid>25d6b530-ce43-4f00-9e3e-63fb1714110d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self services'])[1]/following::div[8]</value>
+      <webElementGuid>ca212c7c-d7ef-4601-b3c0-4c586137d39d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboards'])[1]/following::div[11]</value>
+      <webElementGuid>b4cb7c08-e37b-40fd-a5fe-24a0dff11cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div</value>
+      <webElementGuid>6dd4959d-7bd8-4eeb-999e-033bbafb8928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'show_hide_page_title' and (text() = 'Leave policy  Help×' or . = 'Leave policy  Help×')]</value>
+      <webElementGuid>5cc94820-7617-4107-9733-0d0bb1a16cb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

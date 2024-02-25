@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hobbies</name>
+   <tag></tag>
+   <elementGuidId>e2486d5a-f4dc-43c4-a0ae-a7da5a472732</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='personalDetailsDiv']/div/div/div/div[3]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>31c68b36-32fc-47f3-8a1d-17fad06b60d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sec-button</value>
+      <webElementGuid>211b4357-0bfd-4da7-82d7-79f3c4da9149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hobbies   </value>
+      <webElementGuid>f4ecb216-7bf6-43ec-8d22-b001bb9e7d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personalDetailsDiv&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;personalprofile&quot;]/div[@class=&quot;detail_profile&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;sec-button&quot;]</value>
+      <webElementGuid>a6501b21-181b-4fef-be8b-7d5ed97190cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_Profile/Page_Home page/iframe_Self services_homePageFrame (3)</value>
+      <webElementGuid>9391017b-8b6d-4dc1-9080-15337c862a96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personalDetailsDiv']/div/div/div/div[3]/div[4]</value>
+      <webElementGuid>9bd2ff26-17cf-4a4e-9171-3254f5ac835b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other details'])[1]/following::div[1]</value>
+      <webElementGuid>a586994a-6647-4302-8f93-63fa7b041fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beneficiaries'])[2]/following::div[2]</value>
+      <webElementGuid>66bff3e6-605b-4af6-bc50-dcac0d559f32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Languages known'])[2]/preceding::div[1]</value>
+      <webElementGuid>732199a8-0cd1-40a0-8d70-6911daacfaa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[3]/div[4]</value>
+      <webElementGuid>fdce5a7d-4610-46f5-a592-fd4d8500a957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hobbies   ' or . = 'Hobbies   ')]</value>
+      <webElementGuid>cf4d4119-ab92-4978-815c-5e56cb9c96a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

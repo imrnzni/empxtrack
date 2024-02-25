@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invalid User Name, Password or Company specified</name>
+   <tag></tag>
+   <elementGuidId>ae7edb50-ae27-46e0-97bc-a266a9138c7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;m101&quot;)[count(. | //div[@class = 'err' and @id = 'm101' and (text() = 'Invalid User Name, Password or Company specified. ' or . = 'Invalid User Name, Password or Company specified. ')]) = count(//div[@class = 'err' and @id = 'm101' and (text() = 'Invalid User Name, Password or Company specified. ' or . = 'Invalid User Name, Password or Company specified. ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='m101']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#m101</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>190d7298-f383-4c94-ac03-01e877bcceab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>err</value>
+      <webElementGuid>39402c53-8a3e-44e7-955c-03850d024143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>m101</value>
+      <webElementGuid>dc85daeb-c9d0-40ae-86e4-6cdde0108659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid User Name, Password or Company specified. </value>
+      <webElementGuid>a3da1a88-74bf-45fa-abac-ab12807ed991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;m101&quot;)</value>
+      <webElementGuid>48fbcc02-857e-4905-b274-34235e158a00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='m101']</value>
+      <webElementGuid>80322c96-f840-46a4-a66c-798ea41aaa11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Should be checked if you are on a public computer.)'])[1]/preceding::div[2]</value>
+      <webElementGuid>ae5e42b1-d09f-4cd7-bab3-f8b8704f01ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid User Name, Password or Company specified.']/parent::*</value>
+      <webElementGuid>d838af13-a469-4c1d-90ed-16141556fe1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div</value>
+      <webElementGuid>2a6f7809-0539-4c75-8373-9857a6907e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'm101' and (text() = 'Invalid User Name, Password or Company specified. ' or . = 'Invalid User Name, Password or Company specified. ')]</value>
+      <webElementGuid>2c949e91-58e7-4282-964b-6b45a7e13409</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

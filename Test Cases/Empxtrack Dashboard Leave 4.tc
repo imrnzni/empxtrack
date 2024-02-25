@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Unsuccessfully applied half-day casual leave with first half and second half ticked</description>
+   <name>Empxtrack Dashboard Leave 4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d322ba43-a512-4d03-b269-4d736d8abe66</testCaseGuid>
+</TestCaseEntity>

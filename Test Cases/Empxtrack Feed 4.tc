@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Successfully put a like on a user</description>
+   <name>Empxtrack Feed 4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db9f085e-aa09-49e6-9960-ccff43dca251</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hrportal.empxtrack.com/empxtrack/logon.do?activity=display&amp;__nored_=1&amp;location=testbitssdnbhd&amp;selMenuItemChoice=clear'</defaultValue>
+      <description></description>
+      <id>ac87847e-37a5-4fdf-b12a-7ff6657c450f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'empxt.latihan04@yopmail.com'</defaultValue>
+      <description></description>
+      <id>a4056571-c175-4e4e-95e3-6e85f372f79a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'cIjZX7FQSD5JPNYeXpMicQ=='</defaultValue>
+      <description></description>
+      <id>d35d1b7c-451d-4a03-a004-043cbc27da9e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

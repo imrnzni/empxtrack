@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hobbies</name>
+   <tag></tag>
+   <elementGuidId>11c31220-ce74-40ff-a376-0f3150922e1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Other details'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;btn_3&quot;)[count(. | //a[@id = 'btn_3' and @onclick = concat(&quot;javascript:triggerPersonalDataModes(&quot; , &quot;'&quot; , &quot;AddButtonEmpHobbiesInterestsMethod&quot; , &quot;'&quot; , &quot;);return false;&quot;) and (text() = 'Hobbies ' or . = 'Hobbies ') and @ref_element = 'Object Repository/Empxtrack_Profile/Page_Home page/iframe_Self services_homePageFrame (2)']) = count(//a[@id = 'btn_3' and @onclick = concat(&quot;javascript:triggerPersonalDataModes(&quot; , &quot;'&quot; , &quot;AddButtonEmpHobbiesInterestsMethod&quot; , &quot;'&quot; , &quot;);return false;&quot;) and (text() = 'Hobbies ' or . = 'Hobbies ') and @ref_element = 'Object Repository/Empxtrack_Profile/Page_Home page/iframe_Self services_homePageFrame (2)'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>459a9f8d-7049-44af-8931-2c610fdd31d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_3</value>
+      <webElementGuid>25326d7f-d29b-4475-afc7-aad1c6a25203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:triggerPersonalDataModes('AddButtonEmpHobbiesInterestsMethod');return false;</value>
+      <webElementGuid>f997b813-67f7-4391-a9f9-9a38b372e4cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hobbies </value>
+      <webElementGuid>419ca9f8-94cc-43da-93c7-78d733129869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_3&quot;)</value>
+      <webElementGuid>91cb0c3c-2d43-4f5c-8138-4eabe199ee1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_Profile/Page_Home page/iframe_Self services_homePageFrame (2)</value>
+      <webElementGuid>9927f5c8-a472-4902-9b3b-754d2fd9a6fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btn_3']</value>
+      <webElementGuid>46c14742-aaa5-42a6-b091-a175829a1f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personalDetailsDiv']/div/div/div/div[3]/div[4]/a</value>
+      <webElementGuid>17805783-72d4-4421-8ad6-796b1ad2704b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hobbies')]</value>
+      <webElementGuid>563ccd27-5a10-4471-8334-4f3a02a353a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other details'])[1]/following::a[1]</value>
+      <webElementGuid>aee85c5a-de17-4a8b-9d0e-b840ee123214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beneficiaries'])[2]/following::a[2]</value>
+      <webElementGuid>7fb172b9-50bd-4423-a215-d74e9f25b395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Languages known'])[2]/preceding::a[1]</value>
+      <webElementGuid>bf753ac5-0315-474e-91fd-df5158e689c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact details'])[3]/preceding::a[2]</value>
+      <webElementGuid>44106f6e-811f-4fe0-867b-9f0d8b64843a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>fbc61353-dcbd-4adf-9762-f5b058661594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btn_3' and (text() = 'Hobbies ' or . = 'Hobbies ')]</value>
+      <webElementGuid>39b8145b-4974-458e-b3e9-70f54c99e162</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

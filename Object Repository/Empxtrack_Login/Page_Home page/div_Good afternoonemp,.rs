@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Good afternoonemp,</name>
+   <tag></tag>
+   <elementGuidId>5703514c-8bd9-4142-84bf-740911619dcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='displayPageContent']/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.font_display_medium_bold.welcome-h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7836ed61-0391-4500-a842-9a8749a2990e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font_display_medium_bold welcome-h1</value>
+      <webElementGuid>f536187f-e72f-41b7-bc47-a1a75398fe6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Good afternoon emp, </value>
+      <webElementGuid>3547f3b1-9b4a-4e55-9e0b-77da743159e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;displayPageContent&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;v10-content-section&quot;]/div[@class=&quot;col-md-9 col-sm-12&quot;]/div[@class=&quot;font_display_medium_bold welcome-h1&quot;]</value>
+      <webElementGuid>dc0b2b3e-a3a8-4ec6-a6b5-02ea7ff8192a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Empxtrack_Login/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>00388990-7129-40c7-9891-90abfa5357e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='displayPageContent']/div/div[2]/div/div</value>
+      <webElementGuid>a7397163-fade-404c-ad7b-e24e8f859f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat 27 Jan, 03:39 PM'])[1]/preceding::div[2]</value>
+      <webElementGuid>08fd570c-909c-4cbd-abda-dcc92ead86c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div</value>
+      <webElementGuid>eaa63d66-d531-410e-b3ae-1f92938bac2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Good afternoon emp, ' or . = 'Good afternoon emp, ')]</value>
+      <webElementGuid>929f5350-a3d6-46fb-ac57-0eca029be3d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

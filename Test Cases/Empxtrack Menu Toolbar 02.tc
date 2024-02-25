@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Successfully view notification</description>
+   <name>Empxtrack Menu Toolbar 02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a6cae17-5f38-475c-af07-0c99165c5355</testCaseGuid>
+</TestCaseEntity>
